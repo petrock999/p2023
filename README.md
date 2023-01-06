@@ -1,4 +1,4 @@
-# p2023
+# p2023 // week 1 & 2
 ## statistics
 * https://www.youtube.com/watch?v=xxpc-HPKN28&t=180s
 ## pytorch 1 day
@@ -14,3 +14,8 @@
 ## data science 
 * [data science apps](https://www.youtube.com/watch?v=eMOA1pPVUc4)
 * https://www.youtube.com/watch?v=ua-CiDNNj30&t=146s
+
+
+## books
+* marketting
+* discovery of the mind
