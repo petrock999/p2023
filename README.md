@@ -20,6 +20,12 @@
 * marketting
 * discovery of the mind
 
+## portfolio video
+* make one
+
+## where were we
+* mixing
+
 ## movies
 * northman
 * crimes of future
