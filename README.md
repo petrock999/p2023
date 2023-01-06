@@ -23,3 +23,9 @@
 ## movies
 * northman
 * crimes of future
+
+# done
+* spotify preview app
+* wikipedia summary app
+* aoty order
+* text splitter
